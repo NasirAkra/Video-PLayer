@@ -1,0 +1,34 @@
+com.example.videoplayer.app-coordinatorlayout-1.1.0-0 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\04e20c26169d9c974deff5e4d67b6963\transformed\coordinatorlayout-1.1.0\res
+com.example.videoplayer.app-cardview-1.0.0-1 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\23f9707189fe3967458a337a4b9ac749\transformed\cardview-1.0.0\res
+com.example.videoplayer.app-emoji2-views-helper-1.3.0-2 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\2b4acaff93a6ae04bac4f4422c61babc\transformed\emoji2-views-helper-1.3.0\res
+com.example.videoplayer.app-profileinstaller-1.3.1-3 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\2b7536ffe5e4edf41b8ba7b902e701c2\transformed\profileinstaller-1.3.1\res
+com.example.videoplayer.app-material-1.12.0-4 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\2c93d16ee376fc0ea4a8ec621fb4c981\transformed\material-1.12.0\res
+com.example.videoplayer.app-lifecycle-process-2.6.2-5 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\377aabac4bd849a122b8ac0575ee8629\transformed\lifecycle-process-2.6.2\res
+com.example.videoplayer.app-transition-1.5.0-6 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\3ca59014723a7c3210321ea514771721\transformed\transition-1.5.0\res
+com.example.videoplayer.app-lifecycle-viewmodel-2.6.2-7 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\58e6a5846ae5143b761fe56ff970d38a\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.videoplayer.app-recyclerview-1.1.0-8 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\5b296a09cf5cd101c96102e5ca6b9fc4\transformed\recyclerview-1.1.0\res
+com.example.videoplayer.app-core-1.13.0-9 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\5beb86923544368f3150010c480b1af3\transformed\core-1.13.0\res
+com.example.videoplayer.app-startup-runtime-1.1.1-10 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\6c74dedf04f98a2bd6e21c8038f42a9f\transformed\startup-runtime-1.1.1\res
+com.example.videoplayer.app-drawerlayout-1.1.1-11 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\6e4cca7fa382c546163ff8745f684444\transformed\drawerlayout-1.1.1\res
+com.example.videoplayer.app-lifecycle-runtime-2.6.2-12 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\71f03c98d5461d2594170e185bb17391\transformed\lifecycle-runtime-2.6.2\res
+com.example.videoplayer.app-lifecycle-livedata-2.6.2-13 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\7853c081a2c13f9e21012e92c73bd170\transformed\lifecycle-livedata-2.6.2\res
+com.example.videoplayer.app-activity-1.9.1-14 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\7a57ce944c03e29213871ed328b652cb\transformed\activity-1.9.1\res
+com.example.videoplayer.app-annotation-experimental-1.4.0-15 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\812890ae0b088252ad2080df4158aba1\transformed\annotation-experimental-1.4.0\res
+com.example.videoplayer.app-fragment-1.5.4-16 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\841d4821de3c3776829a102d6e6e9271\transformed\fragment-1.5.4\res
+com.example.videoplayer.app-constraintlayout-2.1.4-17 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\85e583c1cf56a3ebea40379df7e76655\transformed\constraintlayout-2.1.4\res
+com.example.videoplayer.app-lifecycle-viewmodel-savedstate-2.6.2-18 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\954c0ce0249f21f4fcdc1339299e4c8e\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.videoplayer.app-appcompat-resources-1.7.0-19 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\a145a483d7908e503c4f40e3a69f2892\transformed\appcompat-resources-1.7.0\res
+com.example.videoplayer.app-lifecycle-livedata-core-2.6.2-20 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\b08628e85213f0d8507796f53a4fc64e\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.videoplayer.app-appcompat-1.7.0-21 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\bc683e56d294defa7ee314f7e17d8aa8\transformed\appcompat-1.7.0\res
+com.example.videoplayer.app-core-ktx-1.13.0-22 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\be2cd1855591d4fd5b24064a713e8ec2\transformed\core-ktx-1.13.0\res
+com.example.videoplayer.app-viewpager2-1.0.0-23 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\c17dff2d5a406aaeeff3123106927b84\transformed\viewpager2-1.0.0\res
+com.example.videoplayer.app-savedstate-1.2.1-24 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\c64c9d39f81437b099bf18d29c3a4ece\transformed\savedstate-1.2.1\res
+com.example.videoplayer.app-core-runtime-2.2.0-25 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\ca78b60e19c197d7870a64156a8413a2\transformed\core-runtime-2.2.0\res
+com.example.videoplayer.app-emoji2-1.3.0-26 C:\Users\FAIZAN COMPUTERS\.gradle\caches\transforms-4\d7db11a315ec0facb9eb6a47977b405e\transformed\emoji2-1.3.0\res
+com.example.videoplayer.app-pngs-27 D:\VideoPLayer\app\build\generated\res\pngs\debug
+com.example.videoplayer.app-resValues-28 D:\VideoPLayer\app\build\generated\res\resValues\debug
+com.example.videoplayer.app-packageDebugResources-29 D:\VideoPLayer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.videoplayer.app-packageDebugResources-30 D:\VideoPLayer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.videoplayer.app-debug-31 D:\VideoPLayer\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.videoplayer.app-debug-32 D:\VideoPLayer\app\src\debug\res
+com.example.videoplayer.app-main-33 D:\VideoPLayer\app\src\main\res
